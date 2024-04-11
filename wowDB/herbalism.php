@@ -1,0 +1,31 @@
+<?php
+
+const GATHERABLE_HERBS = [
+    "Silverleaf"=>['id'=>765,'droprate'=>-1],
+    "Mageroyal"=>['id'=>785,'droprate'=>-1],
+    "Earthroot"=>['id'=>2447,'droprate'=>-1],
+    "Briarthorn"=>['id'=>2449,'droprate'=>-1],
+    "Bruiseweed"=>['id'=>2450,'droprate'=>-1],
+    "Swiftthistle"=>['id'=>2452,'droprate'=>-1],
+    "Kingsblood"=>['id'=>3356,'droprate'=>-1],
+    "Liferoot"=>['id'=>3357,'droprate'=>-1],
+    "Fadeleaf"=>['id'=>3818,'droprate'=>-1],
+    "Goldthorn"=>['id'=>3821,'droprate'=>-1],
+    "Khadgar's Whisker"=>['id'=>3358,'droprate'=>-1],
+    "Wintersbite"=>['id'=>3819,'droprate'=>-1],
+    "Wild Steelbloom"=>['id'=>3355,'droprate'=>-1],
+    "Grave Moss"=>['id'=>3369,'droprate'=>-1],
+    "Wildvine"=>['id'=>3820,'droprate'=>-1],
+    "Arthas' Tears"=>['id'=>8836,'droprate'=>-1],
+    "Sungrass"=>['id'=>8838,'droprate'=>-1],
+    "Blindweed"=>['id'=>8839,'droprate'=>-1],
+    "Ghost Mushroom"=>['id'=>8845,'droprate'=>-1],
+    "Gromsblood"=>['id'=>8846,'droprate'=>-1],
+    "Golden Sansam"=>['id'=>13464,'droprate'=>-1],
+    "Dreamfoil"=>['id'=>13463,'droprate'=>-1],
+    "Mountain Silversage"=>['id'=>13465,'droprate'=>-1],
+    "Plaguebloom"=>['id'=>13466,'droprate'=>-1],
+    "Icecap"=>['id'=>13467,'droprate'=>-1],
+    "Black Lotus"=>['id'=>13468,'droprate'=>-1],
+
+];
